@@ -4,7 +4,7 @@ import { View, SafeAreaView, StatusBar, Image, Linking, Alert, TouchableOpacity,
 import { Input, Button, Switch } from 'galio-framework';
 import { io } from "socket.io-client";
 import { LinearGradient } from 'expo-linear-gradient';
-import {encryptData} from "../backend/encryption.js";
+//import {encryptData} from "../backend/encryption.js";
 import * as SecureStore from 'expo-secure-store';
 
 /*
